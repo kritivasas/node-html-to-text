@@ -1,14 +1,13 @@
 {
   "name": "html-to-text",
-  "version": "0.0.8",
+  "version": "0.0.1",
   "description": "Simple html to plain text converter",
   "main": "index.js",
   "scripts": {    
   },
-  "author": "Malte Legenhausen",
+  "author": "Kritivasas Shukla",
   "license": "MIT",
-  "repository": "git@github.com:werk85/node-html-to-text.git",
-  "bugs": { "url": "https://github.com/werk85/node-html-to-text/issues" },
+  "repository": "git@github.com:kritivasas/node-html-to-text.git",
   "dependencies": {
     "htmlparser": "1.x.x",
     "underscore": "1.x.x",
